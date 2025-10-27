@@ -1,0 +1,9 @@
+{
+  "slug": "limpieza-dental",
+  "title": "Limpieza dental profesional",
+  "description": "Elimina placa, sarro y manchas superficiales para prevenir gingivitis y caries.",
+  "price": "€59",
+  "icon": "/images/servicios/limpieza.svg",
+  "steps": ["Valoración inicial", "Profilaxis y ultrasonidos", "Pulido y recomendaciones"],
+  "benefits": ["Encías más sanas", "Aliento fresco", "Previene caries"]
+}

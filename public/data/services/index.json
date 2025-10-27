@@ -1,0 +1,5 @@
+[
+  { "slug": "limpieza-dental", "title": "Limpieza dental", "description": "Elimina placa y sarro para una sonrisa sana.", "icon": "/images/servicios/limpieza.svg" },
+  { "slug": "blanqueamiento", "title": "Blanqueamiento", "description": "Aclara varios tonos con resultados naturales.", "icon": "/images/servicios/blanqueamiento.svg" },
+  { "slug": "ortodoncia", "title": "Ortodoncia", "description": "Alineación dental con brackets o alineadores.", "icon": "/images/servicios/ortodoncia.svg" }
+]

@@ -1,0 +1,9 @@
+{
+  "slug": "blanqueamiento",
+  "title": "Blanqueamiento dental",
+  "description": "Aclara varios tonos con productos seguros y control profesional.",
+  "price": "€199",
+  "icon": "/images/servicios/blanqueamiento.svg",
+  "steps": ["Férulas personalizadas", "Sesión en clínica", "Revisión y mantenimiento"],
+  "benefits": ["Resultados naturales", "Proceso rápido", "Supervisión médica"]
+}

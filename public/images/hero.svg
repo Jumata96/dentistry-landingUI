@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="heroTitle">
+  <title id="heroTitle">Sonrisa</title>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#BFE6F6"/>
+      <stop offset="1" stop-color="#52B0D8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g)"/>
+  <g transform="translate(160 130)">
+    <ellipse cx="160" cy="80" rx="120" ry="60" fill="#fff" opacity="0.8"/>
+    <path d="M40 80c20 30 60 40 120 40s100-10 120-40" stroke="#52B0D8" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

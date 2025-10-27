@@ -1,0 +1,9 @@
+{
+  "slug": "ortodoncia",
+  "title": "Ortodoncia",
+  "description": "Alineación dental con brackets o alineadores transparentes.",
+  "price": "Desde €1.790",
+  "icon": "/images/servicios/ortodoncia.svg",
+  "steps": ["Estudio y diagnóstico", "Plan de tratamiento", "Revisiones periódicas"],
+  "benefits": ["Mejora estética y funcional", "Opciones discretas", "Resultados estables"]
+}

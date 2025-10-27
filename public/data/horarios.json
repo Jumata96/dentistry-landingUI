@@ -1,0 +1,9 @@
+[
+  { "day": "Lunes", "hours": "09:00–14:00 · 16:00–20:00" },
+  { "day": "Martes", "hours": "09:00–14:00 · 16:00–20:00" },
+  { "day": "Miércoles", "hours": "09:00–14:00 · 16:00–20:00" },
+  { "day": "Jueves", "hours": "09:00–14:00 · 16:00–20:00" },
+  { "day": "Viernes", "hours": "09:00–18:00" },
+  { "day": "Sábado", "hours": "09:00–14:00" },
+  { "day": "Domingo", "hours": "Cerrado" }
+]
